@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+}
+
+.titulo-principal{
+    padding-left: 30px;
+    font-size: 40px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principales{
+    background-color: #CCCCCC;
+    padding: 20px;
+    
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+em strong{
+    color: red;
+}
+
+#titulo-diferenciales{
+    font-size: 25px;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+}
+
+.diferenciales{
+    background-color: white;
+    padding: 20px;
+}
+
+.lista_diferenciales{
+        display:inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+}
+
+.imagen_Diferenciales{
+    width: 35%;
+}
+
+/*CSS para el Home*/
+
+.banner{
+    width: 100%;
+}
+
+
